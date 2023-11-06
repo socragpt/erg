@@ -1,0 +1,45 @@
+{
+    "ERG_Hierarchy": {
+      "Level_0_Core_Concepts": {
+        "description": "Fundamental principles and ideas upon which risk management is based.",
+        "examples": ["Risk", "Governance", "Compliance", "Strategy"]
+      },
+      "Level_1_KeyTerms": {
+        "description": "Basic elements and constructs used to define and discuss risk.",
+        "examples": ["Risk Appetite", "Inherent Risk", "Control Environment", "Risk Culture", "Impact"]
+      },
+      "Level_2_Level1Terms": {
+        "description": "Composite terms that integrate KeyTerms to describe complex concepts.",
+        "examples": ["Risk Profile", "Risk Assessment", "Control Activities", "Risk Analysis", "Risk Mitigation"]
+      },
+      "Level_3_Functional_Areas": {
+        "description": "Specific domains of risk management within an organization.",
+        "examples": ["Operational Risk Management", "Financial Risk Analytics", "Compliance Management System"]
+      },
+      "Level_4_Strategic_Frameworks": {
+        "description": "High-level methodologies guiding enterprise-wide risk management.",
+        "examples": ["Risk Governance Framework", "Enterprise Risk Profile", "Resilience Planning"]
+      },
+      "Level_5_Integrated_Systems": {
+        "description": "Comprehensive solutions that encompass multiple risk management aspects.",
+        "examples": ["Integrated Risk Information System", "Enterprise Risk Management Software"]
+      },
+      "Level_6_Implementation_Guidelines": {
+        "description": "Procedural details for the practical application of risk strategies.",
+        "examples": ["Risk Mitigation Plans", "Compliance Procedures", "Business Continuity Strategies"]
+      },
+      "Level_7_Performance_Metrics": {
+        "description": "Metrics to measure and evaluate risk management effectiveness.",
+        "examples": ["Risk Tolerance Thresholds", "Key Risk Indicators", "Compliance Metrics"]
+      },
+      "Level_8_Continuous_Improvement": {
+        "description": "Processes for the ongoing enhancement of risk governance practices.",
+        "examples": ["Risk Management Policy Reviews", "Regulatory Update Processes", "Risk Training Programs"]
+      },
+      "Level_9_Governance_Oversight": {
+        "description": "Evaluation and oversight mechanisms for the risk governance ecosystem.",
+        "examples": ["Board Risk Committees", "Audit Reports", "Regulatory Compliance Assessments"]
+      }
+    }
+  }
+  
